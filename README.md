@@ -2,7 +2,7 @@
     <img width="30"  alt="Pathfinder Website Logo" src="./public/favicons/apple-touch-icon.png?raw=true">
 </p>
 <h1 align="center">
-  Pathfinder
+  Pathfinding Visualizer V2
 </h1>
 
 ## Table of Contents
